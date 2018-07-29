@@ -1,0 +1,3 @@
+﻿  BST.cpp
+f:\repos\bst\bst\bst\bst.cpp(201): warning C4715: “Delete”: 不是所有的控件路径都返回值
+  BST.vcxproj -> F:\repos\BST\BST\Debug\BST.exe
